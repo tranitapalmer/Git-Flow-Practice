@@ -17,3 +17,6 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
+- Tranita Palmer
+- George of the Jungle
+
